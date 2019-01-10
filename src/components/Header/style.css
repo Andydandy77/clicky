@@ -1,0 +1,31 @@
+.header {
+    background-color: #6c9967;
+    margin-top: auto;
+    height: 200px;
+    margin-bottom: 100px
+
+}
+
+.title1 {
+    text-align: center;
+    padding-top: 75px; 
+    color: white; 
+    font-size: 48px
+
+    
+}
+
+.subtitle {
+    text-align: center;
+}
+
+.scores {
+    float: right;
+    position: relative;
+    bottom: 150px;
+    right: 50px
+    
+}
+
+
+
